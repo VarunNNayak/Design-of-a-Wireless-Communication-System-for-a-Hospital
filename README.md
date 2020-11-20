@@ -1,1 +1,1 @@
-# Design-of-a-Wireless-Communication-System-for-a-Hospital
+# Design of a Wireless Communication System for a Hospital
